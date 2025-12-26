@@ -1,0 +1,29 @@
+base-message-board/
+├── app/
+│   ├── layout.jsx
+│   ├── page.jsx
+│   └── globals.css
+│
+├── components/
+│   ├── ConnectButton.jsx
+│   ├── MessageBoard.jsx
+│   ├── MessageList.jsx
+│   ├── Skeleton.jsx
+│   └── BottomSheet.jsx
+│
+├── lib/
+│   ├── wagmi.js
+│   ├── contract.js
+│   └── useName.js
+│
+├── contracts/
+│   └── MessageBoard.sol
+│
+├── server/
+│   └── relayer.js
+│
+├── .env.example
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── README.md
