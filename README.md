@@ -1,7 +1,6 @@
 # Base Message Board
 
 A **mobile-first, next-generation on-chain message board** built on **Base Mainnet**. Users can post, update, and like messages **directly on-chain** with a **modern Web3 interface**, WalletConnect integration, and gasless like functionality.  
-
 ---
 
 ## Features
